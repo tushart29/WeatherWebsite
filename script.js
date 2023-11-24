@@ -1,3 +1,6 @@
+
+// The querySelector method is a built-in JavaScript method that is used to select the first element that matches a specified CSS selector(s) in a document. 
+//     It is part of the Document Object Model (DOM) API, which allows you to interact with HTML and XML documents.
 // Selecting the input element with the class 'search' inside which there is an input element.
 const searchInput = document.querySelector('.search input');
 
